@@ -1,0 +1,1 @@
+in this project i used a data set with information about nash ville housing project, the data was not properly cleaned information like adress was not entered well ,there were some nulls and duplicates . this project aimed to clean and enter the data well
