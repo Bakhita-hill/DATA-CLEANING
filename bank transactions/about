@@ -1,0 +1,9 @@
+This project requires us to :
+1. Split the Transaction Code to extract the letters at the start of the transaction code. These identify the bank who processes the transaction  
+2. Rename the values in the Online or In-person field, Online of the 1 values and In-Person for the 2 values. 
+3. Different levels of detail are required in the outputs. You will need to sum up the values of the transactions in three ways :
+  a. Total Values of Transactions by each bank
+  b. Total Values by Type of Transaction (Online or In-Person)
+  c. Total Values by Bank and Customer Code
+4. delete unused columns
+5.Output each data file 
