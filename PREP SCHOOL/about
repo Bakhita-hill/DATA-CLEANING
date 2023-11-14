@@ -5,4 +5,4 @@ in the first part of the project [ details] ,The undertaken tasks included ;
 2. generating parent email addresses
 3. determining the appropriate academic year based on students' birthdates, and implementing various other essential transformations. 
 To accomplish these tasks, SQL functions such as CONCAT, DATETIME, CASE WHEN, UPDATE, and SET were effectively utilized.
-The second part of the project entailed to combine the student details with their grades 
+The second part of the project entailed to combine the student details with their grades and aggregate their grades 
